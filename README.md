@@ -1,7 +1,7 @@
 # mpi_tut
 
 ## Command to run
-mpirun -n 3 python mpi_ptp.py 
+mpirun -n 3 python ptp.py 
 
 ## Relevant docs - 
 http://mpi4py.readthedocs.io/en/stable/overview.html
