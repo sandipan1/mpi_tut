@@ -18,3 +18,5 @@ http://etutorials.org/Linux+systems/cluster+computing+with+linux/Part+II+Paralle
 
 Basic steps for paralellising work using master-worker architechture
 ![image](https://user-images.githubusercontent.com/27682820/44124511-3a2df37e-a04b-11e8-80e5-c6e052ec33dc.png)
+
+![image](https://user-images.githubusercontent.com/27682820/44124998-c0dc9c98-a04d-11e8-8893-dec8fd1106a2.png)
