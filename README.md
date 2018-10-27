@@ -1,9 +1,12 @@
 # mpi_tut
 
-## Command to run
-mpirun -n 3 python ptp.py 
 
-## Relevant docs - 
+![overview](image/1.png)
+
+## Command to run
+mpirun -n 3 python ptp.py
+
+## Relevant docs -
 http://mpi4py.readthedocs.io/en/stable/overview.html
 
 http://johnfoster.pge.utexas.edu/PGE383-AdvGeomechanics/notes/MPI.pdf
