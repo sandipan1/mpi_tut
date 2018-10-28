@@ -9,6 +9,8 @@ mpirun -n 3 python ptp.py
 ## Relevant docs -
 http://mpi4py.readthedocs.io/en/stable/overview.html
 
+https://rabernat.github.io/research_computing/parallel-programming-with-mpi-for-python.html
+
 http://johnfoster.pge.utexas.edu/PGE383-AdvGeomechanics/notes/MPI.pdf
 
 http://mpi4py.readthedocs.io/en/stable/tutorial.html
